@@ -58,5 +58,4 @@ The notebook compares the performance of different models and visualizes their m
 
 ---
 
-**Author:**  
-Your Name
+
